@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet "type="text/css" href="test.css">
+<link rel="stylesheet "type="text/css" href="priv.css">
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</head>
+<body>
+<div>
+<div id="zmf1"><h3>menu</h3></div>
+<div id="zmf2"><h3>menu2</h3></div>
+<div id="zmf3"><h3>menu3</h3></div>
+<div id="zmf4"><h3>menu3</h3></div>
+<div id="zmf5"><h3>menu3</h3></div>
+<div id="zmf6"><h3>menu3</h3></div>
+<div id="zmf7"><h3>menu3</h3></div>
+<div id="zmf8"><h3>menu3</h3></div>
+</div>
+<div class="zmf2">
+<i class="fa fa-bars"></i>
+</div>
+
+<div class="privacy">
+<h1>kmlkmkmdkem kfemklef flkmeflk</h1>
+</div>
+
+<div class="matter">
+<p>jkkm eklfme elkmflke leelkmf elfmelkmfle</p>
+</div>
+
+
+<div class="zmf12 shad">
+
+<div class="zmf8">
+<script>
+  (function() {
+    var cx = '011475245313911218501:xtqnrrdnqtk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+
+<div class="icon1">
+<i class="fa fa-facebook"></i>
+
+<i class="fa fa-twitter"></i>
+
+<i class="fa fa-youtube-play"></i>
+
+<i class="fa fa-google-plus"></i>
+<i class="fa fa-linkedin"></i>
+</div>
+<div class="zmf16">
+
+      <a href="#">About</a>
+      <a href="#">Contact Us</a>
+ <a href="#">Privacy Policy</a>
+   <a href="#">Disclaimer</a>
+ <a href="#">Terms of Conditions</a>
+</div>
+<h4>© Copyright 2015 SCONJ · All Rights Reserved · And Our Sitemap · All Logos & Trademark Belong To Their Respective Owners·</4>
+</div>
+
+</div>
+<script src="test.js"></script>
+</body>
+</html>
